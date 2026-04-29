@@ -234,7 +234,7 @@ File dashboard dapat dilihat disini: [My_Dashboard](Power_BI/My_Dashboard.pbix)
 
 ### Tampilan Dashboard:
 
-![My_Dashboard](Images/My_Dashboard.png)
+![My_Dashboard](Images/My_Dashboard.PNG)
 
 **Note**: Ikon yang digunakan dalam dashboard ini bersumber dari [Flaticon](https://www.flaticon.com/) dan [Freepik](https://www.freepik.com/).
 
